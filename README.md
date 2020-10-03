@@ -1,5 +1,6 @@
 # WVD-AZones
 ARM template to deploy WVD in Availability Zones.
+
 This temaplte for WVD Classic will distribute your WVD Session Host VM's equally across all three Azure Availability Zones in the region (where supported) into which you are deploying.
 
 This is by the addition of this code in the standard WVD deployment template:
